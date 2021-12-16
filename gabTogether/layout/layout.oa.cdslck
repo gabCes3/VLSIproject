@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cestergi
+HostName                       vuse-icl63.vuse.vanderbilt.edu
+ProcessIdentifier              17344
+ProcessCreationTime_UTC        1639607973
+ProcessCreationTime_Readable   Wed Dec 15 16:39:33 2021 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cestergi/VLSI/Homework/gabTogether/layout/layout.oa.cdslck
+TimeEditLocked                 Wed Dec 15 16:40:17 2021 CST
