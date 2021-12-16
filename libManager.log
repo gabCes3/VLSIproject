@@ -1,0 +1,53 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 01/28/2016 23:41 (sjfnl179) $
+\o Sub version:		sub-version  IC6.1.7 - CAT35.15s004 
+\o Arguments:		-mpssession virtuoso17344 -mpshost vuse-icl63.vuse.vanderbilt.edu 
+\o Working Directory:	vuse-icl63.vuse.vanderbilt.edu:/home/cestergi/repoProj
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o Log file is "/home/cestergi/repoProj/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(24 93 768 801))
+\o changeWorkingDir("/home/cestergi/repoProj") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a cdsLibManager->libListBox->value = "Homework"
+\a cdsLibManager->libLineEdit->value = "Homework"
+\a cdsLibManager->cellListBox->value = "count_simulation_gab"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "gabTogether"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = "gabTogether"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "Homework"
+\a cdsLibManager->libLineEdit->value = "Homework"
+\a cdsLibManager->cellListBox->value = "gabTogether"
+\a cdsLibManager->cellLineEdit->value = "gabTogether"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->FileOpenButton->value = t
+\o MPS request: edit design
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
